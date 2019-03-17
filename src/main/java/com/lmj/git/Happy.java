@@ -5,6 +5,7 @@ public class Happy {
 		System.out.println("test-right...");
 		System.out.println("test¡ª¡ªleft...");
 		System.out.println("hot fix...");
+		System.out.println();
 	}
 
 }
